@@ -34,3 +34,8 @@ The model predicts employee salaries based on years of work experience and evalu
 
 ## Platform
 Google Colab
+## Reference
+
+For project reference and learning resources, visit:
+
+[Complexiota GitHub](https://github.com/complexiota)
